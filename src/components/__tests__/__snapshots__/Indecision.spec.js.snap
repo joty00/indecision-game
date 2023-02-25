@@ -1,0 +1,10 @@
+// Vitest Snapshot v1
+
+exports[`Indecision > debe de hacer match con el snapshot 1`] = `
+"<!--v-if-->
+<div class=\\"bg-dark\\"></div>
+<div class=\\"indecision-container\\"><input type=\\"text\\" placeholder=\\"Make me a question\\">
+  <p>Remeber the interogation sign (?) at the end.</p>
+  <!--v-if-->
+</div>"
+`;
